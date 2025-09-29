@@ -1,2 +1,2 @@
-# Abre-complet
+# Arbre-complet
 tri par tas (heapsort)
